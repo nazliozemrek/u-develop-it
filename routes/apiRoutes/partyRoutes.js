@@ -49,3 +49,4 @@ router.get('/parties', (req, res) => {
       }
     });
   });
+module.exports=router;
